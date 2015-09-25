@@ -1,2 +1,5 @@
 # mta_project
-This is a really great project -- please use it
+
+First project of Metis Data Science Bootamp.  
+
+Performed exploratory data analysis on MTA subway data to prototype solutions for WTWY street marketing team optimization.
